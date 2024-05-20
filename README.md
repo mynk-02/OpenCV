@@ -20,3 +20,5 @@
     3. edges
     4. dialating the image
     5. eroded image
+
+# LMAO GIT IS EASY
