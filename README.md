@@ -13,3 +13,10 @@
     5. Create circle
     6. Create line
     7. Dispplay text
+
+# basic.py
+    1. rgb2gray
+    2. blur
+    3. edges
+    4. dialating the image
+    5. eroded image
