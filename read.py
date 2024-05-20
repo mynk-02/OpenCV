@@ -17,7 +17,7 @@ def rescaleFrame(frame,scale=0.75):
 
 
 #Reading Image
-img = cv.imread("Images/cat.jpg")
+img = cv.imread("OpenCV/Images/cat.jpg")
 cv.imshow("Cat", img)
 
 frame = rescaleFrame(img, 4)
@@ -25,7 +25,7 @@ cv.imshow("Resized Cat", frame)
 cv.waitKey(0)
 
 #Reading Video
-"""capture = cv.VideoCapture('Videos/video1.mp4')
+"""capture = cv.VideoCapture('OpenCV/Videos/video1.mp4')
 
 while True:
     isTrue, frame = capture.read()
